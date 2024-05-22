@@ -11,11 +11,18 @@ Link 1 - Vídeo de criação de um modelo de detecção de Alpacas, utilizando Y
 ``https://github.com/computervisioneng/train-yolov8-custom-dataset-step-by-step-guide``
 Link 2 - Repositório base do criador do vídeo do Link 1
 
+``https://www.kaggle.com/datasets/constantinwerner/human-detection-dataset``
+Link 3 - Link do dataset utilizado
+
+``https://www.cvat.ai/``
+Link 4 - Link da ferramenta de Image Annotation que será utilizada no desenvolvimento deste sofware
+
 ## Propósito deste software
-Criar um software que seja capaz de realizar o mesmo processo detalhado no vídeo, entretanto, voltado para a identificação de gatos. Assim, acredita-se que o autor deste repositório possa aprender mais sobre a utilização desta ferramenta para posterior uso.
+Criar um software que seja capaz de realizar o mesmo processo detalhado no vídeo, entretanto, voltado para a identificação de faces. Assim, acredita-se que o autor deste repositório possa aprender mais sobre a utilização desta ferramenta para posterior uso.
 
 ## Ferramentas que serão utilizadas
-- Open Images Dataset v7, para a criação de um dataset com a localização de gatos em diferentes imagens
+- Open Images Dataset v7, para a criação de um dataset com a localização de faces em diferentes imagens
+- Plataforma CVAT, para a anotação de imagens
 
 ## Fases de implementação
 - Fase 1: Criação de dataset
