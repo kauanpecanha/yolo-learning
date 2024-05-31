@@ -1,0 +1,8 @@
+
+path: C:/Users/kauan/code/python/yolo-learning/data  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/validate  # val images (relative to 'path')
+
+# Classes
+names:
+  0: tom_cruise

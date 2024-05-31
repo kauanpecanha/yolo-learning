@@ -1,0 +1,15 @@
+data/obj_train_data/040_ca0a46b5.jpg
+data/obj_train_data/041_e2eff4e4.jpg
+data/obj_train_data/042_495b3b2e.jpg
+data/obj_train_data/043_be7cc0ea.jpg
+data/obj_train_data/044_8ce8a143.jpg
+data/obj_train_data/045_0b1b7a65.jpg
+data/obj_train_data/046_9ba44e0e.jpg
+data/obj_train_data/047_e8a911aa.jpg
+data/obj_train_data/048_21c4f84a.jpg
+data/obj_train_data/049_78b42871.jpg
+data/obj_train_data/050_278ec040.jpg
+data/obj_train_data/051_566647e1.jpg
+data/obj_train_data/052_60af6c54.jpg
+data/obj_train_data/053_3804bf81.jpg
+data/obj_train_data/054_5e6a651d.jpg

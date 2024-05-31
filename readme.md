@@ -1,4 +1,4 @@
-![Créditos da Imagem: Jimmy B](./cat.png)
+![Créditos da Imagem: Jimmy B](./tom.jpg)
 
 # Estudo de YOLOv8
 
