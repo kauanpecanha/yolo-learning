@@ -1,0 +1,6 @@
+test: C:\Users\kauan\code\python\yolo-learning-v2\dataset\test\images
+train: C:\Users\kauan\code\python\yolo-learning-v2\dataset\train\images
+val: C:\Users\kauan\code\python\yolo-learning-v2\dataset\validate\images
+
+nc: 1
+names: ['tom_cruise']
